@@ -1,0 +1,7 @@
+{
+  "name": "Modena Performance - Oficina de Alta Performance",
+  "description": "Uma landing page de ultra luxo para uma oficina de alta performance em Sorocaba, inspirada na engenharia italiana com estética Rosso Corsa e Carbon Black.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
